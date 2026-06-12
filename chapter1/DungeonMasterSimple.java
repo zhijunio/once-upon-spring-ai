@@ -49,7 +49,6 @@ void main(String[] args) {
 
     // TODO 1: Build a ChatClient with a system prompt that sets the AI personality
 
-
     // TODO 2: Send a message to the agent and print the response
 
     log.info("\n=== Ending Dungeon Master AI Agent ===");
