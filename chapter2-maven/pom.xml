@@ -10,7 +10,7 @@
 
     <properties>
         <java.version>25</java.version>
-        <spring-ai.version>2.0.0-RC2</spring-ai.version>
+        <spring-ai.version>2.0.1</spring-ai.version>
         <slf4j.version>2.0.17</slf4j.version>
     </properties>
 
